@@ -1,6 +1,6 @@
 [
   {
-    "vocab": "ilustrate",
+    "vocab": "illustrate",
     "ch": "说明",
     "date": "2022-09-19",
     "wt": 0,
@@ -10,6 +10,111 @@
     "vocab": "intuition",
     "ch": "直觉",
     "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "convention",
+    "ch": "惯例",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "notation",
+    "ch": "符号；注释；评注",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "exclusively",
+    "ch": "唯一地；仅仅；专门地；单独地",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "interpret",
+    "ch": "解释；说明；口译",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "elimination",
+    "ch": "消除；排除；淘汰",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "slack",
+    "ch": "松弛的；松弛",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "conversely",
+    "ch": "相反地",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "sequel",
+    "ch": "续集；结局；后果",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "anticipate",
+    "ch": "预料；期望",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "pessimistic",
+    "ch": "悲观的，悲观主义的",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "piecewise",
+    "ch": "分段的；分段地",
+    "date": "2022-09-19",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "truncate",
+    "ch": "截断；删节",
+    "date": "2022-09-20",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "precede",
+    "ch": "在...之前的；先于",
+    "date": "2022-09-20",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "vicinity",
+    "ch": "周围；附近地区",
+    "date": "2022-09-20",
+    "wt": 0,
+    "rt": 0
+  },
+  {
+    "vocab": "coefficient",
+    "ch": "率；系数",
+    "date": "2022-09-20",
     "wt": 0,
     "rt": 0
   }
